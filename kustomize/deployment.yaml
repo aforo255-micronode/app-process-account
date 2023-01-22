@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app-process-account
-        image: jeanflores2c93/aforo255-nodejs-process-account:latest
+        image: jeanflores2c93/aforo255-nodejs-process-account:3
         # ports:
         # - containerPort: 5001
         envFrom:
